@@ -131,6 +131,7 @@ const (
 	BlockChainVersion uint64 = 8
 )
 
+// This is a test comment added for demonstration.
 // CacheConfig contains the configuration values for the trie database
 // and state snapshot these are resident in a blockchain.
 type CacheConfig struct {
